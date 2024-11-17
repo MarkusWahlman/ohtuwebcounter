@@ -3,3 +3,6 @@
 **/.pytest_cache/
 **/.coverage
 **/htmlcov/
+selenium-screenshot-*
+output.xml
+log.html
